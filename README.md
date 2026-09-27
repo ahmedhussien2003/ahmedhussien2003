@@ -56,71 +56,69 @@ class AhmedHussien:
 
 ## 🧠 What I Work With
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
 
-### 🤖 Artificial Intelligence
+<img src="https://img.shields.io/badge/🤖%20AI%20%26%20Machine%20Learning-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/📊%20Data%20%26%20Analytics-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/💻%20Frontend%20Development-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/⚙️%20Tools%20%26%20Technologies-111827?style=for-the-badge" />
 
-* Machine Learning
-* Deep Learning
-* Neural Networks
-* CNNs
-* Computer Vision
-* Image Classification
-* Transfer Learning
-* Model Optimization
+</p>
 
-</td>
+### 🤖 AI & Machine Learning
 
-<td width="50%" valign="top">
+<p>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Neural%20Networks-8A2BE2?style=flat-square" />
+<img src="https://img.shields.io/badge/CNNs-8A2BE2?style=flat-square" />
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Image%20Classification-0E75B6?style=flat-square" />
+<img src="https://img.shields.io/badge/Transfer%20Learning-0E75B6?style=flat-square" />
+</p>
 
 ### 📊 Data & Analytics
 
-* Data Cleaning
-* Exploratory Data Analysis
-* Data Visualization
-* Feature Engineering
-* Predictive Analytics
-* Forecasting
-* SQL
-* Data-Driven Insights
+<p>
+<img src="https://img.shields.io/badge/Data%20Analysis-0E75B6?style=flat-square" />
+<img src="https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=flat-square" />
+<img src="https://img.shields.io/badge/EDA-4CAF50?style=flat-square" />
+<img src="https://img.shields.io/badge/Data%20Visualization-FF4081?style=flat-square" />
+<img src="https://img.shields.io/badge/Predictive%20Analytics-FF9800?style=flat-square" />
+<img src="https://img.shields.io/badge/Forecasting-FF9800?style=flat-square" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
 
-</td>
-</tr>
+### 💻 Frontend Development
 
-<tr>
-<td width="50%" valign="top">
+<p>
+<img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square" />
+</p>
 
-### 🌐 Frontend Development
+### ⚙️ Tools & Technologies
 
-* HTML5 & CSS3
-* JavaScript ES6+
-* React.js
-* Bootstrap
-* Tailwind CSS
-* Responsive Design
-* REST APIs
-* UI Development
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙️ Programming & Tools
-
-* Python
-* C++
-* Java
-* JavaScript
-* MySQL
-* MongoDB
-* Git & GitHub
-* Jupyter & Kaggle
-
-</td>
-</tr>
-</table>
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+</p>
 
 ---
 
@@ -161,9 +159,6 @@ class AhmedHussien:
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,jupyter" />
 </p>
-
----
-
 
 ---
 
@@ -225,21 +220,23 @@ My academic background provided me with strong foundations in:
 
 ## 🎯 Current Focus
 
-```text
-Artificial Intelligence
-        ↓
-Machine Learning
-        ↓
-Deep Learning
-        ↓
-Computer Vision
-        ↓
-Data Analysis
-        ↓
-Real-World AI Applications
-```
+<p align="center">
 
-I'm continuously improving my skills in **AI, Data, and Software Development** while working on projects that combine intelligent systems with practical applications.
+`🤖 Artificial Intelligence`
+ → 
+`🧠 Machine Learning`
+ → 
+`🔬 Deep Learning`
+ → 
+`👁️ Computer Vision`
+ → 
+`📊 Data Analysis`
+ → 
+`🚀 AI Applications`
+
+</p>
+
+I'm continuously improving my skills in **AI, Data, and Software Development** while building projects that combine intelligent systems with practical applications.
 
 ---
 
