@@ -110,42 +110,6 @@ I'm particularly interested in transforming complex data into meaningful insight
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏺 HEKA — AI-Powered Hieroglyph Recognition & Translation
-
-An AI-powered application designed to recognize and translate ancient Egyptian hieroglyphs using computer vision and deep learning, with an interactive augmented reality experience.
-
-* Developed a computer vision pipeline for hieroglyph recognition.
-* Applied the ConvNeXt architecture for symbol classification.
-* Integrated language models to generate meaningful English translations from recognized symbols.
-* Incorporated augmented reality to make ancient Egyptian heritage more accessible and interactive.
-
-**Technologies:** Python, TensorFlow, ConvNeXt, Computer Vision, NLP, Flutter, AI
-
-### ⚡ SERAP — Smart Energy Analytics & Prediction
-
-An AI-driven platform designed to analyze energy consumption, forecast usage patterns, and detect anomalies to support more efficient energy management.
-
-* Applied data analytics and machine learning to energy consumption data.
-* Explored forecasting techniques to predict energy usage.
-* Developed anomaly detection approaches to identify unusual consumption patterns.
-* Focused on supporting data-driven decisions for energy efficiency and resource management.
-
-**Technologies:** Python, Machine Learning, Data Analysis, Predictive Analytics
-
-### 🌐 Travello — Hotel Reservation Web Application
-
-A web application designed to simplify hotel discovery and reservations through an interactive user interface.
-
-* Developed responsive web interfaces.
-* Applied frontend development principles to improve usability.
-* Worked with web technologies and database concepts to support application functionality.
-
-**Technologies:** HTML, CSS, JavaScript, React.js, Web Development
-
----
-
 ## 📈 GitHub Statistics
 
 <p align="center">
